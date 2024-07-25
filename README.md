@@ -1,3 +1,3 @@
 # Movie Recommender System 
 <br>
-using Content - Based Filtering
+Using Content - Based Filtering and Cosine Similarity
